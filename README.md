@@ -26,10 +26,6 @@ The systems include:
 - IMU-assisted geometric orientation
 - Experimental validation with real robotic prototypes
 
-## Publications and Research Outputs
-
-Some repositories in this profile are associated with published research papers. Their names, paths, and public links are preserved to ensure reproducibility and citation stability.
-
 ## Technologies
 
 - ROS 2
@@ -42,6 +38,12 @@ Some repositories in this profile are associated with published research papers.
 - Embedded systems
 - Control systems
 - Mobile robotics
+
+## Publications and Research Outputs
+
+For a complete list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=es&user=9UgSP3oAAAAJ).
+
+Some repositories in this profile are associated with published research papers. Their names, paths, and public links are preserved to ensure reproducibility and citation stability.
 
 ## Academic and Professional Profiles
 
