@@ -43,11 +43,14 @@ Some repositories in this profile are associated with published research papers.
 - Control systems
 - Mobile robotics
 
-## Contact
+## Academic and Professional Profiles
 
-- [ORCID](https://orcid.org/0000-0003-4243-4205)
 - [Google Scholar](https://scholar.google.com/citations?hl=es&user=9UgSP3oAAAAJ)
+- [ORCID](https://orcid.org/0000-0003-4243-4205)
 - [GitHub](https://github.com/HBG2025)
 - [LinkedIn](https://www.linkedin.com/in/henry-b-guerrero-807a16228/)
+
+## Contact
+
 - [hbguerrero@ieee.org](mailto:hbguerrero@ieee.org)
 - [hbguerrero@udistrital.edu.co](mailto:hbguerrero@udistrital.edu.co)
