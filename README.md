@@ -26,20 +26,6 @@ The systems include:
 - IMU-assisted geometric orientation
 - Experimental validation with real robotic prototypes
 
-## Selected Projects
-
-### Low-Cost Agricultural Robotics
-
-Robotic platforms designed for autonomous navigation in agricultural environments using ROS 2, LiDAR, embedded control, and low-cost hardware.
-
-### ESP32 Motor Control
-
-DC motor control with encoder feedback, PI control, dead-zone compensation, PWM generation, and experimental identification.
-
-### LiDAR and ROS 2 Integration
-
-Processing of LiDAR measurements for lateral distance estimation, wall-following, and agricultural row-following experiments.
-
 ## Publications and Research Outputs
 
 Some repositories in this profile are associated with published research papers. Their names, paths, and public links are preserved to ensure reproducibility and citation stability.
@@ -59,5 +45,9 @@ Some repositories in this profile are associated with published research papers.
 
 ## Contact
 
-- ORCID: https://orcid.org/0000-0003-4243-4205
-- GitHub: https://github.com/HBG2025
+- [ORCID](https://orcid.org/0000-0003-4243-4205)
+- [Google Scholar](https://scholar.google.com/citations?hl=es&user=9UgSP3oAAAAJ)
+- [GitHub](https://github.com/HBG2025)
+- [LinkedIn](https://www.linkedin.com/in/henry-b-guerrero-807a16228/)
+- [hbguerrero@ieee.org](mailto:hbguerrero@ieee.org)
+- [hbguerrero@udistrital.edu.co](mailto:hbguerrero@udistrital.edu.co)
