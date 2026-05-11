@@ -33,15 +33,20 @@ These systems include:
 - IMU-assisted geometric orientation
 - Experimental validation with real robotic prototypes
 
-## Portfolio
+## Research Portfolio
+
+- [Low-Cost Plantain Row-Following Robot](https://github.com/HBG2025/low-cost-plantain-row-following-robot)  
+  Curated repository documenting work developed within my postdoctoral research stay on low-cost autonomous robotic systems for plantain crop environments. The project was carried out under my academic and technical guidance, with the valuable collaboration of student Danna Montenegro.
 
 - [Publications and Research Outputs](PUBLICATIONS.md)
+
 - [Videos and Media](VIDEOS.md)
+
 - [Selected Professional Experience](EXPERIENCE.md)
 
 ## Selected Highlights
 
-- Postdoctoral research on low-cost autonomous robots for plantain crops.
+- Postdoctoral research on low-cost autonomous robots for plantain crop environments, including the curated repository [Low-Cost Plantain Row-Following Robot](https://github.com/HBG2025/low-cost-plantain-row-following-robot).
 - Ph.D. in Mechanical Engineering from Universidade de São Paulo, focused on agricultural mobile robotics.
 - Published work on ROS / ROS 2, LiDAR-based navigation, fuzzy control, H∞ control, and agricultural mobile robots.
 - Experience with ESP32, Raspberry Pi, ROS 2, LiDAR, IMU, motor control, Python, C/C++, and MATLAB.
