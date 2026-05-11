@@ -75,6 +75,7 @@ Selected publications and research outputs are progressively being connected wit
   Link: [BIPES Book - Spanish PDF](https://bipes.net.br/b/download.php?file=BIPES_Book_espanhol_19_11_25.pdf)  
   Topics: BIPES, IoT, embedded systems, ESP8266, ESP32, block-based programming, engineering education.
 
+
 ### 2024
 
 - **Small-scale car-like agricultural mobile robot for autonomous navigation in crop rows: a first ROS2 approach**  
@@ -83,6 +84,13 @@ Selected publications and research outputs are progressively being connected wit
   Pages: 745–769.  
   Link: [Proceedings PDF](https://www.dropbox.com/scl/fi/q8pivsf65n35fxcu59m2i/Memorias-CIECT-XIX.pdf?rlkey=geohypejyded5suv0ztrqapmj&e=1&st=15ilhwge&dl=0)  
   Topics: ROS 2, car-like agricultural mobile robot, crop-row navigation, autonomous systems, precision agriculture.
+
+- **Moisture Control Using A Low- Cost Experimental Approach For A Vertical Agricultural Indoor Module**  
+  *Revista Punto de Inflexión*, Vol. 1, No. 1, pp. 53–67, 2024.  
+  DOI: [10.22579/30286425.1081](https://doi.org/10.22579/30286425.1081)  
+  Article page: [Revista Punto de Inflexión](https://revistas.unillanos.edu.co/index.php/rpi/article/view/1081)  
+  PDF: [Download PDF](https://revistas.unillanos.edu.co/index.php/rpi/article/view/1081/1144)  
+  Topics: vertical farming, low-cost experimental setup, ESP32, MicroPython, block-based programming, BIPES, IoT, soil moisture control, agricultural technology.
 
 
 ### 2023
@@ -174,17 +182,7 @@ Selected publications and research outputs are progressively being connected wit
   PDF: [COBEM 2013 paper](https://www.abcm.org.br/anais/cobem/2013/PDF/1442.pdf)  
   Topics: AgriBOT, precision agriculture, agricultural mobile robot, CAN bus, steering control, embedded systems, field robotics.
 
-
 ### 2012
-
-### 2012
-
-- **Fuzzy Control Strategy Applied to Adjustment of Front Steering Angle of a 4WSD Agricultural Mobile Robot**  
-  *Lámpsakos*, No. 7, pp. 31–38, 2012.  
-  DOI: [10.21501/21454086.842](https://doi.org/10.21501/21454086.842)  
-  Article page: [Lámpsakos](https://revistas.ucatolicaluisamigo.edu.co/index.php/lampsakos/article/view/842)  
-  PDF: [Download PDF](https://revistas.ucatolicaluisamigo.edu.co/lampsakos/article/view/842/809)  
-  Topics: fuzzy control, 4WSD agricultural mobile robot, steering control, Ackermann geometry, embedded systems, precision agriculture.
 
 - **Reconocimiento de palabras aisladas para control de navegación de robot móvil**  
   *Orinoquia*, Vol. 16, No. 1, pp. 121–134, 2012.  
@@ -193,12 +191,26 @@ Selected publications and research outputs are progressively being connected wit
   PDF: [Download PDF](https://dialnet.unirioja.es/descarga/articulo/4027705.pdf)  
   Topics: speech recognition, LPC, DTW, mobile robot navigation, hexapod robot, Java, digital gene.
 
+- **Fuzzy Control Strategy for the Adjustment of the Front Steering Angle of a 4WSD Agricultural Mobile Robot**  
+  *2012 7th Colombian Computing Congress (CCC)*, Medellín, Colombia, 2012.  
+  DOI: [10.1109/ColombianCC.2012.6398024](https://doi.org/10.1109/ColombianCC.2012.6398024)  
+  IEEE Xplore: [Document 6398024](https://ieeexplore.ieee.org/abstract/document/6398024)  
+  Topics: fuzzy control, 4WSD agricultural mobile robot, steering control, AGRIBOT, Ackermann geometry, precision agriculture, autonomous vehicles.
+
+
 ### 2011
+
+- **Optimal H∞ Controller on the Adjustment of the Steering Angles of a Two-Track 4WD Autonomous Vehicle**  
+  *2011 IEEE IX Latin American Robotics Symposium and IEEE Colombian Conference on Automatic Control (LARC)*, 2011.  
+  DOI: [10.1109/LARC.2011.6086806](https://doi.org/10.1109/LARC.2011.6086806)  
+  IEEE Xplore: [Document 6086806](https://ieeexplore.ieee.org/document/6086806/)  
+  Topics: H∞ control, steering control, two-track 4WD autonomous vehicle, AgriBOT, lateral dynamics, precision agriculture, autonomous vehicles.
 
 - **Robot móvil controlado por comandos de voz LPC-DTW**  
   *Visión Electrónica*, Vol. 5, No. 1, pp. 15–25, 2011.  
   DOI: [10.14483/22484728.3524](https://doi.org/10.14483/22484728.3524)  
   Article page: [Visión Electrónica](https://revistas.udistrital.edu.co/index.php/visele/article/view/3524)  
+  PDF: [Download PDF](https://revistas.udistrital.edu.co/index.php/visele/article/view/3524/5085)  
   Topics: voice commands, LPC, DTW, mobile robot navigation, speech recognition, bio-inspired systems.
 
 - **Robot móvil controlado por voz y visión por computador**  
@@ -218,6 +230,8 @@ Selected publications and research outputs are progressively being connected wit
   *IV Workshop in Applied Robotics and Automation*, Bauru, São Paulo, Brazil, 2010.  
   Type: Conference proceeding / full paper.  
   Topics: hexapod robot, digital gene, locomotion control, bio-inspired systems, mobile robotics.
+
+
 
 ### 2009
 
