@@ -36,7 +36,7 @@ These systems include:
 ## Research Portfolio
 
 - [Low-Cost Plantain Row-Following Robot](https://github.com/HBG2025/low-cost-plantain-row-following-robot)  
-  Curated repository documenting work developed within my postdoctoral research stay on low-cost autonomous robotic systems for plantain crop environments. The project was carried out under my academic and technical guidance, with the valuable collaboration of student Danna Montenegro.
+  Curated repository documenting work developed within my postdoctoral research stay on low-cost autonomous robotic systems for plantain crop environments.
 
 - [Publications and Research Outputs](PUBLICATIONS.md)
 
