@@ -70,23 +70,19 @@ Selected publications and research outputs are progressively being connected wit
   Link: [Article PDF](https://revistas.udistrital.edu.co/index.php/visele/article/view/23790/20991)  
   Topics: quadruped robot, agricultural mobile robotics, low-cost prototyping, field-oriented robotics.
 
-- **An introduction to the Internet of Things and Embedded Systems using block-based programming with BIPES and ESP8266 / ESP32**  
-  Translation / book-related output, 2025.  
-  Topics: IoT, embedded systems, ESP8266, ESP32, block-based programming, engineering education.
+- **An Introduction to the Internet of Things and Embedded Systems Using Block-Based Programming with BIPES and ESP8266 / ESP32**  
+  Spanish version / educational book, 2025.  
+  Link: [BIPES Book - Spanish PDF](https://bipes.net.br/b/download.php?file=BIPES_Book_espanhol_19_11_25.pdf)  
+  Topics: BIPES, IoT, embedded systems, ESP8266, ESP32, block-based programming, engineering education.
 
 ### 2024
 
 - **Small-scale car-like agricultural mobile robot for autonomous navigation in crop rows: a first ROS2 approach**  
   *XIX Congreso Internacional de Electrónica, Control y Telecomunicaciones - CIECT XIX*, 2024.  
-  Topics: ROS 2, agricultural mobile robot, crop-row navigation, autonomous systems.
-
-- **Mobile Robot Prototype for Learning and Teaching Object Oriented Programming**  
-  *XIX Congreso Internacional de Electrónica, Control y Telecomunicaciones - CIECT XIX*, 2024.  
-  Topics: mobile robotics, object-oriented programming, engineering education.
-
-- **Quadruped Prototype Mobile Robot: An Approach from Mobile Robotics to Agriculture**  
-  *XIX Congreso Internacional de Electrónica, Control y Telecomunicaciones - CIECT XIX*, 2024.  
-  Topics: quadruped robot, mobile robotics, agricultural robotics.
+  In: *Libro de memorias CIECT XIX*, Vol. 15, ISBN: 978-958-44-5254-2.  
+  Pages: 745–769.  
+  Link: [Proceedings PDF](https://www.dropbox.com/scl/fi/q8pivsf65n35fxcu59m2i/Memorias-CIECT-XIX.pdf?rlkey=geohypejyded5suv0ztrqapmj&e=1&st=15ilhwge&dl=0)  
+  Topics: ROS 2, car-like agricultural mobile robot, crop-row navigation, autonomous systems, precision agriculture.
 
 
 ### 2023
