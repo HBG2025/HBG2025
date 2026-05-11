@@ -51,11 +51,9 @@ The systems include:
   Teaching activities included differential calculus and mechanical physics.
 
 
-## Education and Research Training
-
 - **Universidade de São Paulo (USP), Escola de Engenharia de São Carlos** *(2010–2016)*  
   Direct Ph.D. program in Mechanical Engineering.  
-  Dissertation: *Desenvolvimento de um sistema de controle em um robô móvel agrícola em escala reduzida para deslocamento entre fileiras de plantio*.  
+  Thesis: *Desenvolvimento de um sistema de controle em um robô móvel agrícola em escala reduzida para deslocamento entre fileiras de plantio*.  
   Research focused on agricultural mobile robotics, crop-row navigation, control systems, LiDAR-based sensing, and precision agriculture.
 
 
