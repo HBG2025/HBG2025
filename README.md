@@ -11,6 +11,22 @@ My current work combines embedded systems, ROS 2, LiDAR sensing, motor control, 
 - [GitHub](https://github.com/HBG2025)
 - [LinkedIn](https://www.linkedin.com/in/henry-b-guerrero-807a16228/)
 
+## Academic Background
+
+- **Ph.D. in Mechanical Engineering**  
+  **Universidade de São Paulo (USP), Escola de Engenharia de São Carlos, Brazil** *(2010–2016)*  
+  Direct Ph.D. program.  
+  Thesis: *Desenvolvimento de um sistema de controle em um robô móvel agrícola em escala reduzida para deslocamento entre fileiras de plantio*.  
+  Research focused on agricultural mobile robotics, crop-row navigation, control systems, LiDAR-based sensing, and precision agriculture.
+
+- **Specialization in Automation and Industrial Informatics**  
+  **Universidad Autónoma de Colombia** *(2006–2007)*
+
+- **B.Sc. in Electronic Engineering**  
+  **Universidad de los Llanos, Colombia** *(1997–2004)*  
+  Undergraduate project related to the design and implementation of a prototype electronic automation system for palm oil extraction processes.
+
+
 ## Research Focus
 
 - Low-cost agricultural robotics
