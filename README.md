@@ -111,11 +111,20 @@ Selected publications and research outputs are progressively being connected wit
 
 - **Helvis - a Small-scale Agricultural Mobile Robot Prototype for Precision Agriculture**  
   *13th International Conference on Precision Agriculture*, 2016.  
-  Topics: precision agriculture, agricultural mobile robot, field robotics.
+  ResearchGate: [Publication page](https://www.researchgate.net/publication/306092451_Helvis_-_a_Small-scale_Agricultural_Mobile_Robot_Prototype_for_Precision_Agriculture)  
+  Topics: precision agriculture, agricultural mobile robot, car-like robot, LiDAR, fuzzy control, crop-row navigation.
 
-- **Description of Helvis 3 - A Small Scale Car-Like Robot for Precision Agriculture**  
-  *SiPGEM / EESC-USP*, 2016.  
-  Topics: car-like mobile robot, precision agriculture, agricultural robotics.
+- **Description of HELVIS 3a: small scale car-like robot for precision agriculture**  
+  *Simpósio do Programa de Pós-Graduação em Engenharia Mecânica - SiPGEM / EESC-USP*, 2016.  
+  In: *Anais*. São Carlos, SP: EESC-USP. ISBN: 9788580230437.  
+  Repository: [Repositório da Produção USP](https://repositorio.usp.br/item/002799228)  
+  Topics: car-like mobile robot, precision agriculture, agricultural robotics, mechanical engineering.
+
+- **Desenvolvimento de um sistema de controle em um robô móvel agrícola em escala reduzida para deslocamento entre fileiras de plantio**  
+  Ph.D. thesis, Escola de Engenharia de São Carlos, Universidade de São Paulo, 2016.  
+  Thesis PDF: [USP Digital Library](https://teses.usp.br/teses/disponiveis/18/18149/tde-24122016-154205/publico/teseDoctoral_7396033_Henry_Borrero_Guerrero.pdf)  
+  Topics: agricultural mobile robotics, crop-row navigation, reduced-scale car-like robot, control systems, LiDAR, precision agriculture.
+
 
 ### 2014
 
