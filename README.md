@@ -1,8 +1,8 @@
 # Henry B. Guerrero
 
-I am an electronic engineer and PhD in Mechanical Engineering, working on low-cost autonomous robotic systems for agricultural environments.
+I am an electronic engineer and Ph.D. in Mechanical Engineering working on low-cost autonomous robotic systems for agricultural environments.
 
-My current work combines embedded systems, ROS 2, LiDAR sensing, motor control, mobile robotics, and field-oriented experimentation. I am especially interested in robotic platforms that can support precision agriculture, smallholder farmers, and engineering education.
+My work combines embedded systems, ROS 2, LiDAR sensing, motor control, mobile robotics, and field-oriented experimentation. I am especially interested in robotic platforms that can support precision agriculture, smallholder farmers, and engineering education.
 
 ## Academic and Professional Profiles
 
@@ -26,7 +26,6 @@ My current work combines embedded systems, ROS 2, LiDAR sensing, motor control, 
   **Universidad de los Llanos, Colombia** *(1997–2004)*  
   Undergraduate project related to the design and implementation of a prototype electronic automation system for palm oil extraction processes.
 
-
 ## Research Focus
 
 - Low-cost agricultural robotics
@@ -47,6 +46,7 @@ These systems include:
 - ROS 2 nodes for perception and decision-making
 - LiDAR-based lateral distance estimation
 - IMU-assisted geometric orientation
+- Image acquisition for agricultural inspection
 - Experimental validation with real robotic prototypes
 
 ## Research Portfolio
@@ -54,19 +54,30 @@ These systems include:
 - [Low-Cost Plantain Row-Following Robot](https://github.com/HBG2025/low-cost-plantain-row-following-robot)  
   Curated repository documenting work developed within my postdoctoral research stay on low-cost autonomous robotic systems for plantain crop environments.
 
-- [Publications and Research Outputs](PUBLICATIONS.md)
+- [Publications and Research Outputs](PUBLICATIONS.md)  
+  Selected publications, theses, conference papers, research outputs, and links to available documents.
 
-- [Videos and Media](VIDEOS.md)
+- [Videos and Media](VIDEOS.md)  
+  Videos documenting robotic prototypes, field experiments, academic outreach, media coverage, and robotics dissemination activities.
 
-- [Selected Professional Experience](EXPERIENCE.md)
+- [Selected Professional Experience](EXPERIENCE.md)  
+  Academic, research, teaching, and professional experience related to robotics, control systems, embedded systems, and engineering education.
+
+## Teaching Repositories
+
+Some repositories in this GitHub profile are mainly intended to provide downloadable material for my courses.
+
+They may include code examples, exercises, source files, and complementary resources for topics such as programming, object-oriented programming, algorithms, web basics, embedded systems, and engineering education.
+
+These repositories are not necessarily presented as research projects; they are shared as academic support material for students.
 
 ## Selected Highlights
 
-- Postdoctoral research on low-cost autonomous robots for plantain crop environments, including the curated repository [Low-Cost Plantain Row-Following Robot](https://github.com/HBG2025/low-cost-plantain-row-following-robot).
+- Postdoctoral research on low-cost autonomous robots for plantain crop environments.
 - Ph.D. in Mechanical Engineering from Universidade de São Paulo, focused on agricultural mobile robotics.
 - Published work on ROS / ROS 2, LiDAR-based navigation, fuzzy control, H∞ control, and agricultural mobile robots.
 - Experience with ESP32, Raspberry Pi, ROS 2, LiDAR, IMU, motor control, Python, C/C++, and MATLAB.
-- Former president of the IEEE Robotics and Automation Society (RAS) Colombia Chapter in 2025.
+- President of the IEEE Robotics and Automation Society (RAS) Colombia Chapter in 2025.
 - Director of SEROB, the Robotics Research Group at Universidad Distrital Francisco José de Caldas.
 
 ## Technologies
@@ -81,6 +92,8 @@ These systems include:
 - Embedded systems
 - Control systems
 - Mobile robotics
+- Agricultural robotics
+- Engineering education
 
 ## Contact
 
