@@ -126,86 +126,152 @@ Selected publications and research outputs are progressively being connected wit
   Thesis PDF: [Download PDF](https://teses.usp.br/teses/disponiveis/18/18149/tde-24122016-154205/publico/teseDoctoral_7396033_Henry_Borrero_Guerrero.pdf)  
   Topics: agricultural mobile robotics, crop-row navigation, reduced-scale car-like robot, control systems, LiDAR, precision agriculture.
 
+### 2015
+
+- **Low-Cost Embedded Computer for Mobile Robot Platform Based on Raspberry Board**  
+  *23rd ABCM International Congress of Mechanical Engineering - COBEM 2015*, Rio de Janeiro, Brazil, 2015.  
+  PDF: [COBEM 2015 paper](https://abcm.org.br/app/webroot/anais/cobem/2015/PDF/COB-2015-0336.pdf)  
+  Topics: Raspberry Pi, embedded computer, mobile robot platform, low-cost robotics, experimental robotics.
+
+- **Orientation (Yaw) Fuzzy Controller Applied to a Differential Drive Mobile Robot Prototype for Indoor and Outdoor Applications**  
+  *23rd ABCM International Congress of Mechanical Engineering - COBEM 2015*, Rio de Janeiro, Brazil, 2015.  
+  PDF: [COBEM 2015 paper](https://abcm.org.br/app/webroot/anais/cobem/2015/PDF/COB-2015-0461.pdf)  
+  Topics: fuzzy control, yaw control, differential-drive mobile robot, IMU, Arduino, Android, App Inventor, Bluetooth, indoor and outdoor navigation.
+
 ### 2014
 
-- **Electric Car-Like Mobile Robot Used on Vehicle Robotics**  
-  *IEEE Colombian Workshop on Circuits and Systems*, 2014.  
-  Topics: car-like mobile robot, vehicle robotics, mobile robotics.
+- **Orientation (Yaw) Fuzzy controller applied to a car-like mobile robot prototype**  
+  *2014 IEEE 5th Colombian Workshop on Circuits and Systems (CWCAS)*, Bogotá, Colombia, 2014.  
+  IEEE Xplore: [Document 6994603](https://ieeexplore.ieee.org/document/6994603)  
+  Topics: car-like mobile robot, fuzzy control, yaw control, IMU, GPS, embedded control, agricultural robotics.
 
-- **Mobile Robot Prototype Used to the Study of Trajectory Control Strategies and Auto-localization**  
-  *Congresso Nacional de Engenharia Mecânica - CONEM*, 2014.  
-  Topics: differential-drive mobile robot, fuzzy controller, orientation control, auto-localization.
+- **A comparison between reactive potential fields and Attractor Dynamics**  
+  *2014 IEEE 5th Colombian Workshop on Circuits and Systems (CWCAS)*, Bogotá, Colombia, 2014.  
+  IEEE Xplore: [Document 6994609](https://ieeexplore.ieee.org/document/6994609)  
+  Topics: reactive navigation, potential fields, attractor dynamics, mobile robotics, autonomous systems.
+
+- **A Comparison Between Reactive Potential Fields and Attractor Dynamics**  
+  *2014 IEEE 5th Colombian Workshop on Circuits and Systems (CWCAS)*, Bogotá, Colombia, 2014.  
+  DOI: [10.1109/CWCAS.2014.6994609](https://doi.org/10.1109/CWCAS.2014.6994609)  
+  IEEE Xplore: [Document 6994609](https://ieeexplore.ieee.org/document/6994609/)  
+  Topics: reactive navigation, potential fields, attractor dynamics, mobile robotics, autonomous systems.
+
+- **Mobile Robot Prototype to the Study of Trajectory Control Strategies and Auto-Localization**  
+  *Congresso Nacional de Engenharia Mecânica - CONEM 2014*, 2014.  
+  PDF: [CONEM 2014 paper](https://www.abcm.org.br/anais/conem/2014/PDFS/CONEM2014-1606.pdf)  
+  Topics: differential-drive mobile robot, trajectory control, auto-localization, fuzzy logic controller, orientation control, IMU, GPS, Arduino, XBee.
+
+### 2013
+
+- **Navigation Control in FPGA for a Differential-Drive Mobile Robot**  
+  *2013 16th International Conference on Advanced Robotics - ICAR 2013*, Montevideo, Uruguay, 2013.  
+  DOI: [10.1109/ICAR.2013.6766532](https://doi.org/10.1109/ICAR.2013.6766532)  
+  IEEE Xplore: [Document 6766532](https://ieeexplore.ieee.org/document/6766532)  
+  Topics: FPGA, differential-drive mobile robot, navigation control, perceptron, embedded systems, mobile robotics.
+
+- **AgriBOT - Mobile Robot to Support of Agricultural Precision Activities**  
+  *22nd International Congress of Mechanical Engineering - COBEM 2013*, Ribeirão Preto, SP, Brazil, 2013.  
+  PDF: [COBEM 2013 paper](https://www.abcm.org.br/anais/cobem/2013/PDF/1442.pdf)  
+  Topics: AgriBOT, precision agriculture, agricultural mobile robot, CAN bus, steering control, embedded systems, field robotics.
+
+
+### 2012
 
 ### 2012
 
 - **Fuzzy Control Strategy Applied to Adjustment of Front Steering Angle of a 4WSD Agricultural Mobile Robot**  
-  *Revista Digital Lámpsakos*, 2012.  
+  *Lámpsakos*, No. 7, pp. 31–38, 2012.  
   DOI: [10.21501/21454086.842](https://doi.org/10.21501/21454086.842)  
-  Topics: fuzzy control, steering control, agricultural mobile robot, 4WSD robot.
+  Article page: [Lámpsakos](https://revistas.ucatolicaluisamigo.edu.co/index.php/lampsakos/article/view/842)  
+  PDF: [Download PDF](https://revistas.ucatolicaluisamigo.edu.co/lampsakos/article/view/842/809)  
+  Topics: fuzzy control, 4WSD agricultural mobile robot, steering control, Ackermann geometry, embedded systems, precision agriculture.
 
 - **Reconocimiento de palabras aisladas para control de navegación de robot móvil**  
-  *Orinoquia*, 2012.  
-  Topics: mobile robot, speech recognition, LPC, DTW, navigation control.
+  *Orinoquia*, Vol. 16, No. 1, pp. 121–134, 2012.  
+  DOI: [10.22579/20112629.272](https://doi.org/10.22579/20112629.272)  
+  Article page: [Orinoquia](https://orinoquia.unillanos.edu.co/index.php/orinoquia/article/view/272)  
+  PDF: [Download PDF](https://dialnet.unirioja.es/descarga/articulo/4027705.pdf)  
+  Topics: speech recognition, LPC, DTW, mobile robot navigation, hexapod robot, Java, digital gene.
 
 ### 2011
 
 - **Robot móvil controlado por comandos de voz LPC-DTW**  
-  *Visión Electrónica*, 2011.  
+  *Visión Electrónica*, Vol. 5, No. 1, pp. 15–25, 2011.  
   DOI: [10.14483/22484728.3524](https://doi.org/10.14483/22484728.3524)  
-  Topics: voice commands, LPC, DTW, mobile robot navigation.
+  Article page: [Visión Electrónica](https://revistas.udistrital.edu.co/index.php/visele/article/view/3524)  
+  Topics: voice commands, LPC, DTW, mobile robot navigation, speech recognition, bio-inspired systems.
+
+- **Robot móvil controlado por voz y visión por computador**  
+  *Congreso Internacional de Electrónica, Control y Telecomunicaciones*, Universidad Distrital Francisco José de Caldas, 2011.  
+  Topics: mobile robot, voice control, computer vision, navigation control.
+
 
 ### 2010
 
-- **Identificación de comandos de voz utilizando LPC y algoritmos genéticos en MATLAB**  
-  *Revista Cintex*, 2010.  
-  Topics: voice command recognition, LPC, genetic algorithms, MATLAB.
+- **Identificación de comandos de voz utilizando LPC y algoritmos genéticos en Matlab**  
+  *Revista CINTEX*, Vol. 15, pp. 36–48, 2010.  
+  Article page: [Revista CINTEX](https://revistas.pascualbravo.edu.co/index.php/cintex/article/view/95)  
+  PDF: [Download PDF](https://revistas.pascualbravo.edu.co/index.php/cintex/article/view/95/96)  
+  Topics: voice command recognition, LPC, genetic algorithms, MATLAB, mobile robot navigation.
 
 - **Gene Digital para Controle de Locomoção de Robô Móvel Hexápode de 12 Graus de Liberdade**  
-  *IV Workshop in Applied Robotics and Automation*, 2010.  
-  Topics: hexapod robot, locomotion control, digital gene, mobile robotics.
+  *IV Workshop in Applied Robotics and Automation*, Bauru, São Paulo, Brazil, 2010.  
+  Type: Conference proceeding / full paper.  
+  Topics: hexapod robot, digital gene, locomotion control, bio-inspired systems, mobile robotics.
 
 ### 2009
 
 - **Evolución de chip ADN emulado con algoritmo genético en FPGA para control de navegación de un robot móvil**  
-  *I Congreso Regional de Electricidad, Electrónica y Sistemas - CREES*, 2009.  
+  *I Congreso Regional de Electricidad, Electrónica y Sistemas - CREES 2009*, Barranquilla, Colombia, 2009.  
+  Type: Conference proceeding / full paper.  
   Related journal article: [Orinoquia article](https://orinoquia.unillanos.edu.co/index.php/orinoquia/article/view/96/172)  
-  Topics: FPGA, genetic algorithms, DNA chip emulation, mobile robot navigation.
+  Topics: FPGA, genetic algorithms, DNA chip emulation, mobile robot navigation, bio-inspired digital systems.
 
 - **Robot móvil caminador hexápodo con 12 grados de libertad**  
-  *I Congreso Regional de Electricidad, Electrónica y Sistemas*, 2009.  
-  Topics: hexapod robot, mobile robotics, locomotion.
+  *I Congreso Regional de Electricidad, Electrónica y Sistemas - CREES 2009*, Barranquilla, Colombia, 2009.  
+  Type: Conference proceeding / abstract.  
+  Topics: hexapod robot, walking robot, mobile robotics, locomotion.
 
 - **Control de locomoción y navegación de robot móvil caminador hexápodo Gene Digital**  
-  *V Colombian Workshop of Robotics and Automation - CWRA*, 2009.  
-  Topics: hexapod robot, locomotion control, navigation, digital gene.
+  *V Colombian Workshop of Robotics and Automation - CWRA 2009*, Bogotá, Colombia, 2009.  
+  Type: Conference proceeding / full paper.  
+  Topics: hexapod robot, locomotion control, navigation control, digital gene, mobile robotics.
 
 - **Reconocimiento de palabras aisladas utilizando LPC y DTW para control de navegación de un mini-robot**  
-  *V Colombian Workshop of Robotics and Automation - CWRA*, 2009.  
-  Topics: speech recognition, LPC, DTW, mini-robot navigation.
+  *V Colombian Workshop of Robotics and Automation - CWRA 2009*, Bogotá, Colombia, 2009.  
+  Type: Conference proceeding / abstract.  
+  Topics: speech recognition, LPC, DTW, mini-robot navigation, mobile robotics.
 
 - **Gene Digital en FPGA para control de locomoción de robot móvil caminador hexápodo de 12 grados de libertad**  
-  *II Congreso Internacional de Ingeniería Mecatrónica - UNAB*, 2009.  
-  Topics: FPGA, hexapod robot, locomotion control, mobile robotics.
+  *II Congreso Internacional de Ingeniería Mecatrónica - UNAB*, Bucaramanga, Colombia, 2009.  
+  Type: Conference proceeding / full paper.  
+  Topics: FPGA, digital gene, hexapod robot, locomotion control, mobile robotics.
 
 - **Reconocimiento de palabras aisladas utilizando LPC y DTW para control de navegación de un mini-robot**  
-  *II Congreso Internacional de Ingeniería Mecatrónica - UNAB*, 2009.  
-  Topics: speech recognition, LPC, DTW, mini-robot navigation.
+  *II Congreso Internacional de Ingeniería Mecatrónica - UNAB*, Bucaramanga, Colombia, 2009.  
+  Type: Conference proceeding / full paper.  
+  Topics: speech recognition, LPC, DTW, mini-robot navigation, mobile robotics.
+
 
 ### 2008
 
 - **Evolución de chip ADN emulado con algoritmo genético en FPGA para control de navegación de un robot móvil**  
-  *Orinoquia*, 2008.  
-  Link: [Article page](https://orinoquia.unillanos.edu.co/index.php/orinoquia/article/view/96/172)  
-  Topics: DNA chip, FPGA, genetic algorithm, classifier system, mobile robot navigation.
+  *Orinoquia*, Vol. 12, No. 1, pp. 117–129, 2008.  
+  Authors: Henry Borrero Guerrero, Jesús Alberto Delgado Rivera.  
+  Article page / PDF: [Orinoquia](https://orinoquia.unillanos.edu.co/index.php/orinoquia/article/view/96/172)  
+  Topics: DNA chip, FPGA, genetic algorithm, classifier system, electronic emulation, mobile robot navigation, bio-inspired digital systems.
+
 
 ### 2005
 
 - **Emulación de un Chip ADN para el Control de navegación de un robot móvil**  
-  *I Colombian Workshop of Robotics and Automation*, 2005.  
-  Topics: DNA chip emulation, mobile robot navigation, bio-inspired digital systems.
+  *I Colombian Workshop on Robotics and Automation - CWRA 2005*, Bogotá D.C., Colombia, 2005.  
+  Type: Conference proceeding / research output.  
+  Topics: DNA chip emulation, FPGA, genetic algorithms, mobile robot navigation, bio-inspired digital systems.
 
-- **Chip ADN: Emulación Electrónica y Aplicaciones**  
-  *II Congreso Colombiano de Bioingeniería e Ingeniería Biomédica*, 2005.  
+- **Chip ADN, Emulación electrónica y aplicaciones**  
+  *II Congreso Colombiano de Bioingeniería e Ingeniería Biomédica*, Bogotá, Colombia, 2005.  
+  Type: Conference proceeding / research output.  
   Topics: DNA chip, electronic emulation, bioengineering, reconfigurable hardware.
 
 ## Academic and Professional Profiles
