@@ -122,9 +122,9 @@ Selected publications and research outputs are progressively being connected wit
 
 - **Desenvolvimento de um sistema de controle em um robô móvel agrícola em escala reduzida para deslocamento entre fileiras de plantio**  
   Ph.D. thesis, Escola de Engenharia de São Carlos, Universidade de São Paulo, 2016.  
-  Thesis PDF: [USP Digital Library](https://teses.usp.br/teses/disponiveis/18/18149/tde-24122016-154205/publico/teseDoctoral_7396033_Henry_Borrero_Guerrero.pdf)  
+  Thesis page: [USP Digital Library](https://teses.usp.br/teses/disponiveis/18/18149/tde-24122016-154205/pt-br.html)  
+  Thesis PDF: [Download PDF](https://teses.usp.br/teses/disponiveis/18/18149/tde-24122016-154205/publico/teseDoctoral_7396033_Henry_Borrero_Guerrero.pdf)  
   Topics: agricultural mobile robotics, crop-row navigation, reduced-scale car-like robot, control systems, LiDAR, precision agriculture.
-
 
 ### 2014
 
