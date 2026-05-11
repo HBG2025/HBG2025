@@ -2,7 +2,7 @@
 
 I am an electronic engineer and PhD in Mechanical Engineering, working on low-cost autonomous robotic systems for agricultural environments.
 
-My current work combines embedded systems, ROS 2, LiDAR sensing, motor control, mobile robotics, and field-oriented experimentation. I am especially interested in robotic platforms that can support precision agriculture, small farmers, and engineering education.
+My current work combines embedded systems, ROS 2, LiDAR sensing, motor control, mobile robotics, and field-oriented experimentation. I am especially interested in robotic platforms that can support precision agriculture, smallholder farmers, and engineering education.
 
 ## Research Interests
 
@@ -26,6 +26,40 @@ The systems include:
 - IMU-assisted geometric orientation
 - Experimental validation with real robotic prototypes
 
+## Selected Professional Experience
+
+- **Universidad Distrital Francisco José de Caldas**  
+  Professor / Faculty member, Faculty of Engineering, Colombia.  
+  Teaching activities include basic programming, object-oriented programming, applied programming, robotics, embedded systems, and control-related topics.
+
+- **Postdoctoral Research Stay – Ministry of Science, Technology and Innovation, Colombia**  
+  Project: *Autonomous Exploratory Vehicle for Plantain Crops*.  
+  Research focused on low-cost autonomous robotics, agricultural navigation, field sensing, and experimental validation.
+
+- **Universidad Nacional Abierta y a Distancia (UNAD)**  
+  Faculty member / Research and teaching activities.  
+  Academic work related to engineering, robotics, embedded systems, and technology-based education.
+
+- **Universidad Antonio Nariño**  
+  Faculty member and academic coordinator.  
+  Activities included electronic engineering program coordination, teaching in electronics and robotics, and social outreach through robotics.
+
+- **Universidad Santo Tomás**  
+  Full-time faculty member.  
+  Teaching activities included differential calculus and mechanical physics.
+
+- **Universidad de los Llanos**  
+  Full-time faculty member, teaching, research, and academic administration.  
+  Activities included courses in robotics, digital circuits, circuit theory, computational logic, and research projects in mobile robotics, artificial vision, and FPGA-based systems.
+
+- **Corporación Universitaria del Meta**  
+  Part-time faculty member.  
+  Teaching activities included robotics, reconfigurable logic, hardware description languages, data transmission, and communications.
+
+- **Palmeras Santana Ltda.**  
+  Engineering project participant.  
+  Work related to a prototype electronic automation system for palm oil extraction processes.
+
 ## Technologies
 
 - ROS 2
@@ -38,7 +72,6 @@ The systems include:
 - Embedded systems
 - Control systems
 - Mobile robotics
-
 
 ## Publications and Research Outputs
 
@@ -75,7 +108,6 @@ Selected publications and research outputs are progressively being connected wit
   Link: [BIPES Book - Spanish PDF](https://bipes.net.br/b/download.php?file=BIPES_Book_espanhol_19_11_25.pdf)  
   Topics: BIPES, IoT, embedded systems, ESP8266, ESP32, block-based programming, engineering education.
 
-
 ### 2024
 
 - **Small-scale car-like agricultural mobile robot for autonomous navigation in crop rows: a first ROS2 approach**  
@@ -85,13 +117,12 @@ Selected publications and research outputs are progressively being connected wit
   Link: [Proceedings PDF](https://www.dropbox.com/scl/fi/q8pivsf65n35fxcu59m2i/Memorias-CIECT-XIX.pdf?rlkey=geohypejyded5suv0ztrqapmj&e=1&st=15ilhwge&dl=0)  
   Topics: ROS 2, car-like agricultural mobile robot, crop-row navigation, autonomous systems, precision agriculture.
 
-- **Moisture Control Using A Low- Cost Experimental Approach For A Vertical Agricultural Indoor Module**  
+- **Moisture Control Using a Low-Cost Experimental Approach for a Vertical Agricultural Indoor Module**  
   *Revista Punto de Inflexión*, Vol. 1, No. 1, pp. 53–67, 2024.  
   DOI: [10.22579/30286425.1081](https://doi.org/10.22579/30286425.1081)  
   Article page: [Revista Punto de Inflexión](https://revistas.unillanos.edu.co/index.php/rpi/article/view/1081)  
   PDF: [Download PDF](https://revistas.unillanos.edu.co/index.php/rpi/article/view/1081/1144)  
   Topics: vertical farming, low-cost experimental setup, ESP32, MicroPython, block-based programming, BIPES, IoT, soil moisture control, agricultural technology.
-
 
 ### 2023
 
@@ -102,7 +133,7 @@ Selected publications and research outputs are progressively being connected wit
 
 ### 2020
 
-- **LIDAR readings based mobile robot wall-following task using a reactive fuzzy control system - A low-cost experimental approach**  
+- **LIDAR Readings Based Mobile Robot Wall-Following Task Using a Reactive Fuzzy Control System - A Low-Cost Experimental Approach**  
   *Memorias / Expotech 2020 - Inteligencia Artificial y Robótica*, 2020.  
   Article page: [UNAD Memorias](https://publicaciones.unad.edu.co/index.php/memorias/article/view/4201)  
   PDF: [Download PDF](https://publicaciones.unad.edu.co/index.php/memorias/article/view/4201/4150)  
@@ -110,29 +141,29 @@ Selected publications and research outputs are progressively being connected wit
 
 ### 2019
 
-- **Reactive navigation system based on H∞ control system and LiDAR readings on corn crops**  
+- **Reactive Navigation System Based on H∞ Control System and LiDAR Readings on Corn Crops**  
   *Precision Agriculture*, 2019.  
   DOI: [10.1007/s11119-019-09672-8](https://doi.org/10.1007/s11119-019-09672-8)  
   Topics: 2D LiDAR, agricultural mobile robot, crop rows, robust control, H∞ control.
 
 ### 2016
 
-- **Helvis - a Small-scale Agricultural Mobile Robot Prototype for Precision Agriculture**  
-  *13th International Conference on Precision Agriculture*, 2016.  
-  ResearchGate: [Publication page](https://www.researchgate.net/publication/306092451_Helvis_-_a_Small-scale_Agricultural_Mobile_Robot_Prototype_for_Precision_Agriculture)  
-  Topics: precision agriculture, agricultural mobile robot, car-like robot, LiDAR, fuzzy control, crop-row navigation.
-
-- **Description of HELVIS 3a: small scale car-like robot for precision agriculture**  
-  *Simpósio do Programa de Pós-Graduação em Engenharia Mecânica - SiPGEM / EESC-USP*, 2016.  
-  In: *Anais*. São Carlos, SP: EESC-USP. ISBN: 9788580230437.  
-  Repository: [Repositório da Produção USP](https://repositorio.usp.br/item/002799228)  
-  Topics: car-like mobile robot, precision agriculture, agricultural robotics, mechanical engineering.
-
 - **Desenvolvimento de um sistema de controle em um robô móvel agrícola em escala reduzida para deslocamento entre fileiras de plantio**  
   Ph.D. thesis, Escola de Engenharia de São Carlos, Universidade de São Paulo, 2016.  
   Thesis page: [USP Digital Library](https://teses.usp.br/teses/disponiveis/18/18149/tde-24122016-154205/pt-br.html)  
   Thesis PDF: [Download PDF](https://teses.usp.br/teses/disponiveis/18/18149/tde-24122016-154205/publico/teseDoctoral_7396033_Henry_Borrero_Guerrero.pdf)  
   Topics: agricultural mobile robotics, crop-row navigation, reduced-scale car-like robot, control systems, LiDAR, precision agriculture.
+
+- **Helvis - a Small-scale Agricultural Mobile Robot Prototype for Precision Agriculture**  
+  *13th International Conference on Precision Agriculture*, 2016.  
+  ResearchGate: [Publication page](https://www.researchgate.net/publication/306092451_Helvis_-_a_Small-scale_Agricultural_Mobile_Robot_Prototype_for_Precision_Agriculture)  
+  Topics: precision agriculture, agricultural mobile robot, car-like robot, LiDAR, fuzzy control, crop-row navigation.
+
+- **Description of HELVIS 3a: Small Scale Car-Like Robot for Precision Agriculture**  
+  *Simpósio do Programa de Pós-Graduação em Engenharia Mecânica - SiPGEM / EESC-USP*, 2016.  
+  In: *Anais*. São Carlos, SP: EESC-USP. ISBN: 9788580230437.  
+  Repository: [Repositório da Produção USP](https://repositorio.usp.br/item/002799228)  
+  Topics: car-like mobile robot, precision agriculture, agricultural robotics, mechanical engineering.
 
 ### 2015
 
@@ -148,15 +179,11 @@ Selected publications and research outputs are progressively being connected wit
 
 ### 2014
 
-- **Orientation (Yaw) Fuzzy controller applied to a car-like mobile robot prototype**  
+- **Orientation (Yaw) Fuzzy Controller Applied to a Car-Like Mobile Robot Prototype**  
   *2014 IEEE 5th Colombian Workshop on Circuits and Systems (CWCAS)*, Bogotá, Colombia, 2014.  
+  DOI: [10.1109/CWCAS.2014.6994603](https://doi.org/10.1109/CWCAS.2014.6994603)  
   IEEE Xplore: [Document 6994603](https://ieeexplore.ieee.org/document/6994603)  
   Topics: car-like mobile robot, fuzzy control, yaw control, IMU, GPS, embedded control, agricultural robotics.
-
-- **A comparison between reactive potential fields and Attractor Dynamics**  
-  *2014 IEEE 5th Colombian Workshop on Circuits and Systems (CWCAS)*, Bogotá, Colombia, 2014.  
-  IEEE Xplore: [Document 6994609](https://ieeexplore.ieee.org/document/6994609)  
-  Topics: reactive navigation, potential fields, attractor dynamics, mobile robotics, autonomous systems.
 
 - **A Comparison Between Reactive Potential Fields and Attractor Dynamics**  
   *2014 IEEE 5th Colombian Workshop on Circuits and Systems (CWCAS)*, Bogotá, Colombia, 2014.  
@@ -177,19 +204,13 @@ Selected publications and research outputs are progressively being connected wit
   IEEE Xplore: [Document 6766532](https://ieeexplore.ieee.org/document/6766532)  
   Topics: FPGA, differential-drive mobile robot, navigation control, perceptron, embedded systems, mobile robotics.
 
-- **AgriBOT - Mobile Robot to Support of Agricultural Precision Activities**  
+- **Agribot - Mobile Robot to Support of Agricultural Precision Activities**  
   *22nd International Congress of Mechanical Engineering - COBEM 2013*, Ribeirão Preto, SP, Brazil, 2013.  
+  Pages: 6243–6254.  
   PDF: [COBEM 2013 paper](https://www.abcm.org.br/anais/cobem/2013/PDF/1442.pdf)  
-  Topics: AgriBOT, precision agriculture, agricultural mobile robot, CAN bus, steering control, embedded systems, field robotics.
+  Topics: AgriBOT, 4WSD agricultural mobile robot, precision agriculture, mobile robotics, distributed control, steering system, field robotics.
 
 ### 2012
-
-- **Reconocimiento de palabras aisladas para control de navegación de robot móvil**  
-  *Orinoquia*, Vol. 16, No. 1, pp. 121–134, 2012.  
-  DOI: [10.22579/20112629.272](https://doi.org/10.22579/20112629.272)  
-  Article page: [Orinoquia](https://orinoquia.unillanos.edu.co/index.php/orinoquia/article/view/272)  
-  PDF: [Download PDF](https://dialnet.unirioja.es/descarga/articulo/4027705.pdf)  
-  Topics: speech recognition, LPC, DTW, mobile robot navigation, hexapod robot, Java, digital gene.
 
 - **Fuzzy Control Strategy for the Adjustment of the Front Steering Angle of a 4WSD Agricultural Mobile Robot**  
   *2012 7th Colombian Computing Congress (CCC)*, Medellín, Colombia, 2012.  
@@ -197,6 +218,12 @@ Selected publications and research outputs are progressively being connected wit
   IEEE Xplore: [Document 6398024](https://ieeexplore.ieee.org/abstract/document/6398024)  
   Topics: fuzzy control, 4WSD agricultural mobile robot, steering control, AGRIBOT, Ackermann geometry, precision agriculture, autonomous vehicles.
 
+- **Reconocimiento de palabras aisladas para control de navegación de robot móvil**  
+  *Orinoquia*, Vol. 16, No. 1, pp. 121–134, 2012.  
+  DOI: [10.22579/20112629.272](https://doi.org/10.22579/20112629.272)  
+  Article page: [Orinoquia](https://orinoquia.unillanos.edu.co/index.php/orinoquia/article/view/272)  
+  PDF: [Download PDF](https://dialnet.unirioja.es/descarga/articulo/4027705.pdf)  
+  Topics: speech recognition, LPC, DTW, mobile robot navigation, hexapod robot, Java, digital gene.
 
 ### 2011
 
@@ -217,7 +244,6 @@ Selected publications and research outputs are progressively being connected wit
   *Congreso Internacional de Electrónica, Control y Telecomunicaciones*, Universidad Distrital Francisco José de Caldas, 2011.  
   Topics: mobile robot, voice control, computer vision, navigation control.
 
-
 ### 2010
 
 - **Identificación de comandos de voz utilizando LPC y algoritmos genéticos en Matlab**  
@@ -226,12 +252,16 @@ Selected publications and research outputs are progressively being connected wit
   PDF: [Download PDF](https://revistas.pascualbravo.edu.co/index.php/cintex/article/view/95/96)  
   Topics: voice command recognition, LPC, genetic algorithms, MATLAB, mobile robot navigation.
 
+- **Identificación de comandos de voz en MATLAB® utilizando LPC y Algoritmos Genéticos**  
+  *I Congreso Nacional de Inteligencia Computacional*, Medellín, Colombia, 2010.  
+  Type: Conference proceeding / research output.  
+  Related journal article: [Revista CINTEX](https://revistas.pascualbravo.edu.co/index.php/cintex/article/view/95)  
+  Topics: voice command recognition, LPC, genetic algorithms, MATLAB, computational intelligence, mobile robotics.
+
 - **Gene Digital para Controle de Locomoção de Robô Móvel Hexápode de 12 Graus de Liberdade**  
   *IV Workshop in Applied Robotics and Automation*, Bauru, São Paulo, Brazil, 2010.  
   Type: Conference proceeding / full paper.  
   Topics: hexapod robot, digital gene, locomotion control, bio-inspired systems, mobile robotics.
-
-
 
 ### 2009
 
@@ -266,7 +296,6 @@ Selected publications and research outputs are progressively being connected wit
   Type: Conference proceeding / full paper.  
   Topics: speech recognition, LPC, DTW, mini-robot navigation, mobile robotics.
 
-
 ### 2008
 
 - **Evolución de chip ADN emulado con algoritmo genético en FPGA para control de navegación de un robot móvil**  
@@ -274,7 +303,6 @@ Selected publications and research outputs are progressively being connected wit
   Authors: Henry Borrero Guerrero, Jesús Alberto Delgado Rivera.  
   Article page / PDF: [Orinoquia](https://orinoquia.unillanos.edu.co/index.php/orinoquia/article/view/96/172)  
   Topics: DNA chip, FPGA, genetic algorithm, classifier system, electronic emulation, mobile robot navigation, bio-inspired digital systems.
-
 
 ### 2005
 
