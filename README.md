@@ -30,31 +30,34 @@ The systems include:
 
 - **Universidad Distrital Francisco José de Caldas** *(2023–Present)*  
   Professor / Faculty member, Faculty of Engineering, Colombia.  
-  Teaching activities include basic programming, object-oriented programming, applied programming, robotics, embedded systems, and control-related topics.
+  Teaching activities include basic programming, object-oriented programming and control-related topics.
 
-- **Postdoctoral Research Stay – Ministry of Science, Technology and Innovation, Colombia** *(2024–Present)*  
+- **Postdoctoral Research Stay – Ministry of Science, Technology and Innovation, Colombia** *(2023–2025)*  
   Project: *Autonomous Exploratory Vehicle for Plantain Crops*.  
   Research focused on low-cost autonomous robotics, agricultural navigation, field sensing, and experimental validation.
 
-- **Universidad Nacional Abierta y a Distancia (UNAD)** *(2019–Present)*  
+- **Universidad Nacional Abierta y a Distancia (UNAD)** *(2019–2021)*  
   Faculty member / Research and teaching activities.  
   Academic work related to engineering, robotics, embedded systems, and technology-based education.
 
-- **Universidad Antonio Nariño** *(2022)*  
-  Faculty member and academic coordinator.  
-  Activities included electronic engineering program coordination, teaching in electronics and robotics, and social outreach through robotics.
-
-- **Universidad Antonio Nariño** *(2017–2019)*  
-  Full-time faculty member.  
-  Teaching and academic activities related to electronics, robotics, embedded systems, and engineering education.
+- **Universidad Antonio Nariño** *(2008–2010; 2017–2019; 2022)*  
+  - *2008–2010:* Part-time faculty member.  
+  - *2017–2019:* Full-time faculty member.  
+  - *2022:* Full-time faculty member and academic coordinator.  
+  Academic activities included teaching in electronics, robotics, embedded systems, and engineering education. In 2022, responsibilities also included electronic engineering program coordination and social outreach through robotics.
 
 - **Universidad Santo Tomás** *(2016)*  
   Full-time faculty member.  
   Teaching activities included differential calculus and mechanical physics.
 
-- **Universidad Antonio Nariño** *(2008–2010)*  
-  Part-time faculty member.  
-  Teaching activities related to electronics and engineering education.
+
+## Education and Research Training
+
+- **Universidade de São Paulo (USP), Escola de Engenharia de São Carlos** *(2010–2016)*  
+  Direct Ph.D. program in Mechanical Engineering.  
+  Dissertation: *Desenvolvimento de um sistema de controle em um robô móvel agrícola em escala reduzida para deslocamento entre fileiras de plantio*.  
+  Research focused on agricultural mobile robotics, crop-row navigation, control systems, LiDAR-based sensing, and precision agriculture.
+
 
 - **Universidad de los Llanos** *(2004–2010)*  
   Full-time faculty member, teaching, research, and academic administration.  
