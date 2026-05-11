@@ -39,24 +39,36 @@ The systems include:
 - Control systems
 - Mobile robotics
 
+
 ## Publications and Research Outputs
 
 For a complete list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=es&user=9UgSP3oAAAAJ).
 
-The following list summarizes publications and research outputs reported in my CvLAC profile. Links to papers, repositories, videos, figures, and complementary material will be progressively added.
+Selected publications and research outputs are progressively being connected with GitHub repositories, source code, experimental setups, figures, photos, videos, and complementary technical documentation.
 
 ### 2026
 
+- **Reactive Fuzzy Control and Field Validation of a Low-Cost Autonomous Tracked Robot for Plantain Crop Row Following**  
+  *Engineering Research Express*, 2026.  
+  Link: [IOPscience PDF](https://iopscience.iop.org/article/10.1088/2631-8695/ae458e/pdf)  
+  Topics: low-cost agricultural robotics, plantain crops, tracked mobile robot, ROS 2, ESP32, LiDAR, BNO055 IMU, fuzzy control, field validation.
+
 - **Autonomous Mobile Robot Prototype for Vegetative Furrows Following Based on Optimal Control over ROS**  
   *International Journal of Online and Biomedical Engineering*, 2026.  
-  DOI: [10.3991/ijoe.v22i02.58423](https://doi.org/10.3991/ijoe.v22i02.58423)  
-  Topics: ROS, LiDAR, IMU, optimal control, precision agriculture, autonomous mobile robots.
+  Link: [iJOE article PDF](https://online-journals.org/index.php/i-joe/article/view/58423/16981)  
+  Topics: autonomous mobile robot, vegetative furrow following, ROS, optimal control, LiDAR, IMU, precision agriculture.
 
 ### 2025
 
+- **Educational Robotic Prototype for Learning Object-Oriented Programming Principles**  
+  *Visión Electrónica*, Vol. 19, No. 2, 2025.  
+  Link: [Article PDF](https://revistas.udistrital.edu.co/index.php/visele/article/view/24492/21383)  
+  Topics: educational robotics, object-oriented programming, Python 3, Raspberry Pi 3B+, Linux, differential-drive mobile robot, LiDAR.
+
 - **Quadruped Robot Prototype for Agricultural Mobile Robotics**  
-  *Visión Electrónica*, 2025.  
-  Topics: quadruped robot, agricultural robotics, mobile robotics, prototyping.
+  *Visión Electrónica*, Vol. 19, No. 1, 2025.  
+  Link: [Article PDF](https://revistas.udistrital.edu.co/index.php/visele/article/view/23790/20991)  
+  Topics: quadruped robot, agricultural mobile robotics, low-cost prototyping, field-oriented robotics.
 
 - **An introduction to the Internet of Things and Embedded Systems using block-based programming with BIPES and ESP8266 / ESP32**  
   Translation / book-related output, 2025.  
@@ -76,19 +88,14 @@ The following list summarizes publications and research outputs reported in my C
   *XIX Congreso Internacional de Electrónica, Control y Telecomunicaciones - CIECT XIX*, 2024.  
   Topics: quadruped robot, mobile robotics, agricultural robotics.
 
+
 ### 2023
 
-- **Un robot móvil de accionamiento diferencial controlado mediante el sistema operativo robótico (ROS)**  
-  *Visión Electrónica*, 2023.  
-  Topics: differential-drive mobile robot, ROS, LiDAR, IMU, mobile robotics.
+- **A Differential Drive Mobile Robot Controlled by Using the Robotics Operational System (ROS)**  
+  *Visión Electrónica*, Vol. 17, No. 2, 2023.  
+  Link: [Article PDF](https://revistas.udistrital.edu.co/index.php/visele/article/view/21881/21445)  
+  Topics: differential-drive mobile robot, ROS, LiDAR, IMU, fuzzy control, crop-row following, agricultural mobile robotics.
 
-- **A differential drive mobile robot controlled by using the robotics operational system (ROS)**  
-  *Visión Electrónica*, 2023.  
-  Topics: ROS, 2D LiDAR, differential-drive mobile robot, agricultural mobile robot, crop-row following, fuzzy logic controller, IMU.
-
-- **Differential drive mobile robot controlled through the use of the Robotics Operating System (ROS)**  
-  *XVIII Congreso Internacional de Electrónica, Control y Telecomunicaciones - CIECT XVIII*, 2023.  
-  Topics: ROS, differential-drive mobile robot, mobile robotics.
 
 ### 2019
 
