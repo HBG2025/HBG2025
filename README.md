@@ -4,6 +4,18 @@ I am an electronic engineer and PhD in Mechanical Engineering, working on low-co
 
 My current work combines embedded systems, ROS 2, LiDAR sensing, motor control, mobile robotics, and field-oriented experimentation. I am especially interested in robotic platforms that can support precision agriculture, smallholder farmers, and engineering education.
 
+## Academic and Professional Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?hl=es&user=9UgSP3oAAAAJ)
+- [ORCID](https://orcid.org/0000-0003-4243-4205)
+- [GitHub](https://github.com/HBG2025)
+- [LinkedIn](https://www.linkedin.com/in/henry-b-guerrero-807a16228/)
+
+## Contact
+
+- [hbguerrero@ieee.org](mailto:hbguerrero@ieee.org)
+- [hbguerrero@udistrital.edu.co](mailto:hbguerrero@udistrital.edu.co)
+
 ## Research Interests
 
 - Low-cost agricultural robotics
@@ -324,15 +336,3 @@ Selected publications and research outputs are progressively being connected wit
   *II Congreso Colombiano de Bioingeniería e Ingeniería Biomédica*, Bogotá, Colombia, 2005.  
   Type: Conference proceeding / research output.  
   Topics: DNA chip, electronic emulation, bioengineering, reconfigurable hardware.
-
-## Academic and Professional Profiles
-
-- [Google Scholar](https://scholar.google.com/citations?hl=es&user=9UgSP3oAAAAJ)
-- [ORCID](https://orcid.org/0000-0003-4243-4205)
-- [GitHub](https://github.com/HBG2025)
-- [LinkedIn](https://www.linkedin.com/in/henry-b-guerrero-807a16228/)
-
-## Contact
-
-- [hbguerrero@ieee.org](mailto:hbguerrero@ieee.org)
-- [hbguerrero@udistrital.edu.co](mailto:hbguerrero@udistrital.edu.co)
