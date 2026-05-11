@@ -92,6 +92,13 @@ Selected publications and research outputs are progressively being connected wit
   Link: [Article PDF](https://revistas.udistrital.edu.co/index.php/visele/article/view/21881/21445)  
   Topics: differential-drive mobile robot, ROS, LiDAR, IMU, fuzzy control, crop-row following, agricultural mobile robotics.
 
+### 2020
+
+- **LIDAR readings based mobile robot wall-following task using a reactive fuzzy control system - A low-cost experimental approach**  
+  *Memorias / Expotech 2020 - Inteligencia Artificial y Robótica*, 2020.  
+  Article page: [UNAD Memorias](https://publicaciones.unad.edu.co/index.php/memorias/article/view/4201)  
+  PDF: [Download PDF](https://publicaciones.unad.edu.co/index.php/memorias/article/view/4201/4150)  
+  Topics: LiDAR, IMU, differential-drive mobile robot, wall-following, reactive fuzzy control, low-cost robotics.
 
 ### 2019
 
