@@ -8,6 +8,12 @@ The entries are organized from the most recent to the oldest and include links t
 
 ## 2026
 
+- **Low-Cost Car-Like Autonomous Mobile Robot Under-Canopy Row Following, and Detection of Patterns Associated with Diseases in Plantain Crops**  
+  *International Journal of Online and Biomedical Engineering (iJOE)*, 2026.  
+  DOI: [10.3991/ijoe.v22i10.61223](https://doi.org/10.3991/ijoe.v22i10.61223)  
+  ResearchGate: [Publication page](https://www.researchgate.net/publication/416017260_Low-Cost_Car-Like_Autonomous_Mobile_Robot_Under-Canopy_Row_Following_and_Detection_of_Patterns_Associated_with_Diseases_in_Plantain_Crops)  
+  Topics: low-cost agricultural robotics, car-like mobile robot, plantain crops, under-canopy row following, ROS 2, LiDAR, IMU, ESP32, image acquisition, patterns associated with crop diseases.
+
 - **Reactive Fuzzy Control and Field Validation of a Low-Cost Autonomous Tracked Robot for Plantain Crop Row Following**  
   *Engineering Research Express*, 2026.  
   Link: [IOPscience PDF](https://iopscience.iop.org/article/10.1088/2631-8695/ae458e/pdf)  
